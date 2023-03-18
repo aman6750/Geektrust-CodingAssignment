@@ -1,6 +1,11 @@
 package com.example.geektrust;
 
+import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.List;
+
 public class Main {
+	  
     public static void main(String[] args)  {
         /*
         Sample code to read from file passed as command line argument
@@ -16,5 +21,18 @@ public class Main {
         } catch (IOException e) {
         }
         */
+    	
+    	
+    	List<String> commandLineArguments = new LinkedList<>(Arrays.asList(args));
+    	
+    	run(commandLineArguments);
 	}
+    
+    public static void run(List<String> commandLineArguments) {
+    	
+   // 	ApplicationConfig applicationConfig = new ApplicationConfig();
+    	
+    	
+    	
+    }
 }
