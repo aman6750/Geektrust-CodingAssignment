@@ -1,0 +1,29 @@
+-> Know how of Java concurrency patterns
+
+-> Basic Understanding of the concepts of MVC (Model-View-Controller) Pattern, JDBC (Java Database Connectivity),SOAP WebService and RESTful web services
+
+-> Relevant Knowledge of Enterprise java Beans
+
+-> Skilled at creating database schemas that characterize and support business processes
+
+-> Basic knowledge of JVM (Java Virtual Machine), its drawbacks, weaknesses, and workarounds
+
+-> Implementing automated testing platforms and unit tests
+
+-> JavaServer pages (JSP) and servlets
+
+-> Web frameworks like Struts and Spring
+
+-> Service-oriented architecture Web Technologies like HTML, JavaScript, CSS, JQuery
+
+-> Markup Languages such as XML, JSON
+
+
+-> Multithreading and Synchronization
+
+
+-> Skill on Postgres/MYSQL/Oracle DB
+
+-> Skill on Webserver/Application server(Tomcat/weblogic/JbossEAP/iPlanet)
+
+-> 

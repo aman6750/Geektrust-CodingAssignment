@@ -1,0 +1,3 @@
+-> REST TEMPLATE : through rest template we can expose rest ful api through one application and we can consume those apis by another application.
+
+-> 
